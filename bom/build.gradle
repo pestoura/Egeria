@@ -91,7 +91,7 @@ ext {
     slf4jVersion = '2.0.6'
     snappyVersion = '1.1.9.1'
     springdocVersion = '1.6.15'
-    springbootVersion = '3.0.4'
+    springbootVersion = '3.0.6'
     spotbugsVersion = '4.7.3'
     springdataVersion = '3.0.3'
     springldapVersion = '3.0.1'
