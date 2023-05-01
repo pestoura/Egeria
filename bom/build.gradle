@@ -100,7 +100,7 @@ ext {
     swaggerVersion = '2.2.8'
     testngVersion = '7.7.1'
     thriftVersion = '0.18.1'
-    springwebVersion = '6.0.6'
+    springwebVersion = '6.0.8'
     tinkVersion = '1.8.0'
     tomcatVersion = '10.1.7'
     validationVersion = '2.0.1.Final'
