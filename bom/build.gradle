@@ -90,7 +90,7 @@ ext {
     snakeyamlVersion = '2.0'
     slf4jVersion = '2.0.6'
     snappyVersion = '1.1.9.1'
-    springdocVersion = '1.6.15'
+    springdocVersion = '1.7.0'
     springbootVersion = '3.0.4'
     spotbugsVersion = '4.7.3'
     springdataVersion = '3.0.3'
