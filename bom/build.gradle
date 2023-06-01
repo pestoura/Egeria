@@ -93,7 +93,7 @@ ext {
     springdocVersion = '1.6.15'
     springbootVersion = '3.0.4'
     spotbugsVersion = '4.7.3'
-    springdataVersion = '3.0.3'
+    springdataVersion = '3.1.0'
     springldapVersion = '3.0.1'
     springsecurityVersion = '6.0.2'
     springsecurityJwtVersion = '1.1.1.RELEASE'
